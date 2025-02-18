@@ -1,30 +1,35 @@
 # Learning-log
 This repository is to document my learning journey
-when it comes to software and computers. I started it on the
-18th of February
+when it comes to software and computers. 
+
+Created on the 18th of February
+
+#### 18th of February
+Learned about **Make files** and how to use them along with headers in C projects
 
 #### 17th of February
 I learned about hardware:
-- how the **keyboard and mouse** work
-- how the Motherboard connects to components on a computer
-- the process of starting the operating system
-- the UART communication protocol and a bit about how USB works
+- how the **keyboard and mouse** work in general
+- how the **Motherboard** connects to components on a computer
+- the process of starting the operating system after powering on the computer
+- the **UART** communication protocol and a bit about how USB works
 
 To say the least, I am much more amazed at the ingenuity behind
 everyday systems we use and I realised the complexity behind
 communication protocols within devices
 
 #### 16th of February
-- I found out how markdown files work and made the first READMEs
+- I found out how markdown **.md** files work and made the first README files
 
-Finished with assembly:
-- arithmetic instructions
+Finished with assembly after looking at:
+- arithmetic and logic instructions
 - jump instructions
 
 #### 15th of February
 Started learning a bit about assembly:
 - memory registers
-- found out how to convert C into .s files
+- found out how to convert .c into .s files
+- what the stack is
 
 #### 8th of February
 I learned about the what instruction sets are
