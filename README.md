@@ -9,7 +9,18 @@ Created on the 18th of February
 
 
 #### 18th of February
-Learned about **Make files** and how to use them along with headers in C projects
+Learned about **Make files** and how to use them along with **headers**
+in C projects
+
+I learned about the roles of the Operating System:
+- Process management (processes and threads)
+- Memory management (virtual memory, paging)
+- File systems (file formats, directories)
+- I/O and device drivers
+- Networking
+- Security
+- providing APIs and systemcalls
+- offering GUIs and CLIs
 
 #### 17th of February
 I learned about hardware:
