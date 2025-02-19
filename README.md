@@ -6,7 +6,23 @@ Created on the 18th of February
 
 [Systems programming languages log (C, C++)](https://github.com/Adrian-isp/Low-Level-Concepts.git)
 
+#### 19th of February
 
+Basics of Networking:
+
+- OSI model's 7 layers
+- TCP/IP model
+- IP addresses
+- TCP protocol
+- what sockets are
+- HTTP
+
+I do realise I am only looking superficially at this information, but
+I am more intersted in only getting the grasp of these domains.
+Now, for example, I at least have an idea of what's going on when data
+is transferred and how browsers interact with users, but the complexity
+is still amazing. I  now know that running a server or, say, making a 
+chat app is doable.
 
 #### 18th of February
 Learned about **Make files** and how to use them along with **headers**
