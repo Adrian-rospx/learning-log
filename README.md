@@ -6,6 +6,8 @@ Created on the 18th of February
 
 [Systems programming languages log (C, C++)](https://github.com/Adrian-isp/Low-Level-Concepts.git)
 
+[Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
+
 #### 20th of February
 
 - URLs and DNS
@@ -14,6 +16,9 @@ Created on the 18th of February
 I think this concludes my deepdive into the computer infrastructure we use 
 everyday. I now have a bit of an overview of how operating systems and the
 internet works. I have to move on to practical projects.
+
+Started the **WebDev** repo and learned about **HTML** following
+[this tutorial](https://youtu.be/HGTJBPNC-Gw?si=40-EgLgE5XYCWGhq).
 
 #### 19th of February
 
