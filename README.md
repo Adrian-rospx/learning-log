@@ -8,6 +8,19 @@ Created on the 18th of February
 
 [Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
 
+#### 23rd of February
+
+- Tried to install several Linux distros, but the only one that actually worked was Mint.
+
+I am curious about bash commands because a lot of the tools I use, such
+as GCC and Git are Linux based and I have run into problems when trying
+to use cmake for example. I'll try WSL.
+
+#### 21st of February
+
+Made an ASCII graphics project
+- Bresenham's line drawing algorithm in C++
+
 #### 20th of February
 
 - URLs and DNS
