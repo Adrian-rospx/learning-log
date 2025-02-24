@@ -8,8 +8,13 @@ Created on the 18th of February
 
 [Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
 
+#### 24th of February
+- Began learning CSS
+- Learned to configure vscode themes and now I love the look of the editor
+
 #### 23rd of February
 
+- Made a circle drawing algorithm program in C++
 - Tried to install several Linux distros, but the only one that actually worked was Mint.
 
 I am curious about bash commands because a lot of the tools I use, such
