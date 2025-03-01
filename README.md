@@ -8,6 +8,11 @@ Created on the 18th of February
 
 [Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
 
+#### 1st of March
+- fixed the line drawing algorithm finally
+- learned a great deal about keyboard shortcuts and efficiency
+- managed to finally use CMake, meaning I can soon begin using third-party libraries
+
 #### 24th of February
 - Began learning CSS
 - Learned to configure vscode themes and now I love the look of the editor
