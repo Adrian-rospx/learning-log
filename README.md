@@ -8,6 +8,8 @@ Created on the 18th of February
 
 [Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
 
+2nd of March: completed an ASCII graphics clock animation
+
 #### 1st of March
 - fixed the line drawing algorithm finally
 - learned a great deal about keyboard shortcuts and efficiency
