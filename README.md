@@ -1,17 +1,22 @@
 # Learning-log
 This repository is to document my learning journey
-when it comes to software and computers. 
-
+when it comes to software, computers and programming.  
 Created on the 18th of February
 
-[Systems programming languages log (C, C++)](https://github.com/Adrian-isp/Low-Level-Concepts.git)
+[C, C++](https://github.com/Adrian-isp/Low-Level-Concepts.git)  
+[Web Development](https://github.com/Adrian-isp/WebDev.git)  
+[Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
 
-[Web Development log (HTML)](https://github.com/Adrian-isp/WebDev.git)
+#### 3rd of March:
+- started the 
+[Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
+repository.
+- learned about time and space complexity & Big O notation
 
-2nd of March: completed an ASCII graphics clock animation
+#### 2nd of March: completed an ASCII graphics clock animation
 
 #### 1st of March
-- fixed the line drawing algorithm finally
+- fixed the line drawing algorithm
 - learned a great deal about keyboard shortcuts and efficiency
 - managed to finally use CMake, meaning I can soon begin using third-party libraries
 
