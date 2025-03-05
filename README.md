@@ -7,6 +7,12 @@ Created on the 18th of February
 [Web Development](https://github.com/Adrian-isp/WebDev.git)  
 [Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
 
+#### 5th of March:
+I found these roadmaps for orientation:
+
+- [C++ Developer Roadmap](https://roadmap.sh/cpp)
+- [Neetcode Roadmap](https://neetcode.io/roadmap)
+
 #### 3rd of March:
 - started the 
 [Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
