@@ -7,6 +7,9 @@ Created on the 18th of February
 [Web Development](https://github.com/Adrian-isp/WebDev.git)  
 [Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
 
+#### 6th of March:
+- ANSI codes for coloring terminal output and basic formatting
+
 #### 5th of March:
 I found these roadmaps for orientation:
 
