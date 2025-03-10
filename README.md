@@ -5,13 +5,20 @@ Created on the 18th of February
 
 [C, C++](https://github.com/Adrian-isp/Low-Level-Concepts.git)  
 [Web Development](https://github.com/Adrian-isp/WebDev.git)  
-[Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
+[Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)  
+[Python](https://github.com/Adrian-isp/Python.git)
+
+---
+
+#### 10th of March
+- Started the [Python](https://github.com/Adrian-isp/Python.git) repository.
+- I found this website useful for organization: [Roadmap.sh](https://roadmap.sh)
 
 #### 6th of March:
 - ANSI codes for coloring terminal output and basic formatting
 
 #### 5th of March:
-I found these roadmaps for orientation:
+Used these roadmaps for orientation:
 
 - [C++ Developer Roadmap](https://roadmap.sh/cpp)
 - [Neetcode Roadmap](https://neetcode.io/roadmap)
