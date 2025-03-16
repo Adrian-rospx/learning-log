@@ -10,6 +10,10 @@ Created on the 18th of February
 
 ---
 
+#### 16th of March
+- Made the algorithm visualisations for insertion sort and selection sort using 
+Python Turtle
+
 #### 10th of March
 - Started the [Python](https://github.com/Adrian-isp/Python.git) repository.
 - I found this website useful for organization: [Roadmap.sh](https://roadmap.sh)
