@@ -1,42 +1,37 @@
 # Learning-log
 This repository is to document my learning journey
 when it comes to software, computers and programming.  
-Created on the 18th of February
+*Created on the 18th of February*
 
+#### Concept repositories
 [C, C++](https://github.com/Adrian-isp/Low-Level-Concepts.git)  
-[Web Development](https://github.com/Adrian-isp/WebDev.git)  
+[Frontend basics](https://github.com/Adrian-isp/WebDev.git)  
 [Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)  
 [Python](https://github.com/Adrian-isp/Python.git)
 
 ---
 
-#### 16th of March
-- Made the algorithm visualisations for insertion sort and selection sort using 
-Python Turtle
+- Linked list and dynamic array implementations in C - Mar-18
 
-#### 10th of March
-- Started the [Python](https://github.com/Adrian-isp/Python.git) repository.
-- I found this website useful for organization: [Roadmap.sh](https://roadmap.sh)
+- Made the algorithm visualisations for insertion sort and selection sort  
+using Python Turtle - Mar-16
 
-#### 6th of March:
-- ANSI codes for coloring terminal output and basic formatting
+- Started the [Python](https://github.com/Adrian-isp/Python.git) repository. - Mar-10
 
-#### 5th of March:
-Used these roadmaps for orientation:
+    - Began using this website for organization: [Roadmap.sh](https://roadmap.sh)
 
-- [C++ Developer Roadmap](https://roadmap.sh/cpp)
-- [Neetcode Roadmap](https://neetcode.io/roadmap)
+- ANSI codes for coloring terminal output and basic formatting - Mar-06
 
-#### 3rd of March:
-- started the 
-[Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
-repository.
-- learned about time and space complexity & Big O notation
+- Found the [C++ Developer Roadmap](https://roadmap.sh/cpp) &
+[Neetcode Roadmap](https://neetcode.io/roadmap) for oriention - Mar-05
 
-#### 2nd of March: completed an ASCII graphics clock animation
+- [Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
+repository. - Mar-03
+    - learned about time and space complexity & Big O notation
+
+- completed an ASCII graphics clock animation - Mar-02
 
 #### 1st of March
-- fixed the line drawing algorithm
 - learned a great deal about keyboard shortcuts and efficiency
 - managed to finally use CMake, meaning I can soon begin using third-party libraries
 
@@ -53,8 +48,7 @@ I am curious about bash commands because a lot of the tools I use, such
 as GCC and Git are Linux based and I have run into problems when trying
 to use cmake for example. I'll try WSL.
 
-#### 21st of February: Made an ASCII graphics project
-- Bresenham's line drawing algorithm in C++
+#### line drawing algorithm graphics project - Feb-21
 
 #### 20th of February
 
