@@ -11,6 +11,8 @@ when it comes to software, computers and programming.
 
 ---
 
+- Began a C CLI calculator learning project - Mar-20
+
 - Linked list and dynamic array implementations in C - Mar-18
 
 - Made the algorithm visualisations for insertion sort and selection sort  
