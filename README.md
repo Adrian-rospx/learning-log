@@ -11,7 +11,9 @@ when it comes to software, computers and programming.
 
 ---
 
-- Began a C CLI calculator learning project - Mar-20
+- Used Pygame to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
+
+- Began a C **CLI calculator** learning project - Mar-20
 
 - Linked list and dynamic array implementations in C - Mar-18
 
