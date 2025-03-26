@@ -10,6 +10,8 @@ when it comes to software, computers and programming.
 [Python](https://github.com/Adrian-isp/Python.git)
 
 ---
+- Implemented queues and stacks manually, along with postfix conversion for 
+the calculator project. Much debugging to be done - Mar-26
 
 - Used Pygame to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
 
