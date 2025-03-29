@@ -10,32 +10,20 @@ when it comes to software, computers and programming.
 [Python](https://github.com/Adrian-isp/Python.git)
 
 ---
+- Finished the C ***CLI calculator*** learning project - Mar-29
 - Implemented queues and stacks manually, along with postfix conversion for 
 the calculator project. Much debugging to be done - Mar-26
-
-- Used Pygame to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
-
-- Began a C **CLI calculator** learning project - Mar-20
-
-- Linked list and dynamic array implementations in C - Mar-18
-
-- Made the algorithm visualisations for insertion sort and selection sort  
-using Python Turtle - Mar-16
-
-- Started the [Python](https://github.com/Adrian-isp/Python.git) repository. - Mar-10
-
-    - Began using this website for organization: [Roadmap.sh](https://roadmap.sh)
-
+- Used ***Pygame*** to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
+- ***Linked list*** and ***dynamic array*** implementations in C - Mar-18
+- Made the algorithm visualisations for **insertion sort** and **selection sort**  
+using ***Python Turtle*** - Mar-16
+- [Python](https://github.com/Adrian-isp/Python.git) repository. - Mar-10
+    - Found this website for organization: [Roadmap.sh](https://roadmap.sh)
 - ANSI codes for coloring terminal output and basic formatting - Mar-06
-
-- Found the [C++ Developer Roadmap](https://roadmap.sh/cpp) &
-[Neetcode Roadmap](https://neetcode.io/roadmap) for oriention - Mar-05
-
 - [Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
 repository. - Mar-03
     - learned about time and space complexity & Big O notation
-
-- completed an ASCII graphics clock animation - Mar-02
+- completed an ASCII graphics ***clock animation*** - Mar-02
 
 #### 1st of March
 - learned a great deal about keyboard shortcuts and efficiency
