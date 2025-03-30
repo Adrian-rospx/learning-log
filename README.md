@@ -3,24 +3,27 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
+#### Projects
+[CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli.git)
+
 #### Concept repositories
-[C, C++](https://github.com/Adrian-isp/Low-Level-Concepts.git)  
-[Frontend basics](https://github.com/Adrian-isp/WebDev.git)  
-[Algorithms and Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)  
-[Python](https://github.com/Adrian-isp/Python.git)
+[C, C++](https://github.com/Adrian-rospx/low-level.git)  
+[Frontend basics](https://github.com/Adrian-rospx/WebDev.git)  
+[Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures.git)  
+[Python](https://github.com/Adrian-rospx/Python.git)
 
 ---
-- Finished the C ***CLI calculator*** learning project - Mar-29
+- Finished the C [***CLI calculator***](https://github.com/Adrian-rospx/calc-cli.git) learning project - Mar-30
 - Implemented queues and stacks manually, along with postfix conversion for 
 the calculator project. Much debugging to be done - Mar-26
 - Used ***Pygame*** to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
 - ***Linked list*** and ***dynamic array*** implementations in C - Mar-18
 - Made the algorithm visualisations for **insertion sort** and **selection sort**  
 using ***Python Turtle*** - Mar-16
-- [Python](https://github.com/Adrian-isp/Python.git) repository. - Mar-10
+- [Python](https://github.com/Adrian-rospx/Python.git) repository. - Mar-10
     - Found this website for organization: [Roadmap.sh](https://roadmap.sh)
 - ANSI codes for coloring terminal output and basic formatting - Mar-06
-- [Algorithms & Data Structures](https://github.com/Adrian-isp/Algorithms-Data-Structures.git)
+- [Algorithms & Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures.git)
 repository. - Mar-03
     - learned about time and space complexity & Big O notation
 - completed an ASCII graphics ***clock animation*** - Mar-02
