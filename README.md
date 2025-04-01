@@ -14,6 +14,9 @@ when it comes to software, computers and programming.
 
 ---
 
+- Created a pixel art image converter using Python Pillow Apr-01
+
+#### March
 - installed Unity - Mar-31
 - Finished the C [***CLI calculator***](https://github.com/Adrian-rospx/calc-cli.git) learning project - Mar-30
 - Implemented queues and stacks manually, along with postfix conversion for 
