@@ -14,7 +14,8 @@ when it comes to software, computers and programming.
 
 ---
 
-- Created a pixel art image converter using Python Pillow Apr-01
+- Learned about compilers and switched to Clang and MSVC for C++ - Apr-05
+- Created a pixel art image converter using Python Pillow - Apr-01
 
 #### March
 - installed Unity - Mar-31
