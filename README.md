@@ -3,8 +3,11 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
-#### Projects
-[CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli.git)
+#### Finished Projects
+
+- [Weather app PySide6](https://github.com/Adrian-rospx/weather-app.git)
+- [Image pixelation converter](https://github.com/Adrian-rospx/pixel-converter.git)  
+- [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli.git)  
 
 #### Concept repositories
 [C, C++](https://github.com/Adrian-rospx/low-level.git)  
@@ -14,13 +17,17 @@ when it comes to software, computers and programming.
 
 ---
 
-- Finished the pixel art converter in Python - Apr-06
-- Learned about compilers and switched to Clang and MSVC for C++ - Apr-05
-- Created a pixel art image converter using Python Pillow - Apr-01
+- Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git) 
+made with **PySide6** - Apr-12
+- Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter.git) 
+in Python - Apr-06
+- Learned about compilers and switched to Clang for C++ - Apr-05
+- Created a pixel art image converter using Python **Pillow** - Apr-01
 
 #### March
 - installed Unity - Mar-31
-- Finished the C [***CLI calculator***](https://github.com/Adrian-rospx/calc-cli.git) learning project - Mar-30
+- Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git) 
+learning project - Mar-30
 - Implemented queues and stacks manually, along with postfix conversion for 
 the calculator project. Much debugging to be done - Mar-26
 - Used ***Pygame*** to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
