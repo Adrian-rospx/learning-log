@@ -5,8 +5,8 @@ when it comes to software, computers and programming.
 
 #### Finished Projects
 
-- [Weather app PySide6](https://github.com/Adrian-rospx/weather-app.git)
-- [Image pixelation converter](https://github.com/Adrian-rospx/pixel-converter.git)  
+- [Simple Weather app PySide6](https://github.com/Adrian-rospx/weather-app.git)
+- [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter.git)  
 - [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli.git)  
 
 #### Concept repositories
@@ -17,6 +17,7 @@ when it comes to software, computers and programming.
 
 ---
 
+- Started learning Javascript - Apr-13
 - Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git) 
 made with **PySide6** - Apr-12
 - Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter.git) 
@@ -25,7 +26,6 @@ in Python - Apr-06
 - Created a pixel art image converter using Python **Pillow** - Apr-01
 
 #### March
-- installed Unity - Mar-31
 - Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git) 
 learning project - Mar-30
 - Implemented queues and stacks manually, along with postfix conversion for 
@@ -33,7 +33,7 @@ the calculator project. Much debugging to be done - Mar-26
 - Used ***Pygame*** to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
 - ***Linked list*** and ***dynamic array*** implementations in C - Mar-18
 - Made the algorithm visualisations for **insertion sort** and **selection sort**  
-using ***Python Turtle*** - Mar-16
+using **Python Turtle** - Mar-16
 - [Python](https://github.com/Adrian-rospx/Python.git) repository. - Mar-10
     - Found this website for organization: [Roadmap.sh](https://roadmap.sh)
 - ANSI codes for coloring terminal output and basic formatting - Mar-06
