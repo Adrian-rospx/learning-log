@@ -5,22 +5,25 @@ when it comes to software, computers and programming.
 
 #### Finished Projects
 
-- [Simple Weather app PySide6](https://github.com/Adrian-rospx/weather-app.git)
-- [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter.git)  
-- [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli.git)  
+- [Easter 2025 Egg coloring app](https://github.com/Adrian-rospx/easter-egg)
+- [Weather app PySide6](https://github.com/Adrian-rospx/weather-app)
+- [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter)  
+- [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli)  
 
 #### Concept repositories
-[C, C++](https://github.com/Adrian-rospx/low-level.git)  
-[Frontend basics](https://github.com/Adrian-rospx/WebDev.git)  
-[Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures.git)  
-[Python](https://github.com/Adrian-rospx/Python.git)
+[C, C++](https://github.com/Adrian-rospx/low-level)  
+[Frontend](https://github.com/Adrian-rospx/WebDev)  
+[Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures)  
+[Python](https://github.com/Adrian-rospx/Python)
 
 ---
 
+- Finished a [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
+and deployed it to github pages - Apr-19
 - Started learning Javascript - Apr-13
 - Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git) 
 made with **PySide6** - Apr-12
-- Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter.git) 
+- Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter) 
 in Python - Apr-06
 - Learned about compilers and switched to Clang for C++ - Apr-05
 - Created a pixel art image converter using Python **Pillow** - Apr-01
