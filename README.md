@@ -11,14 +11,17 @@ when it comes to software, computers and programming.
 - [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli)  
 
 #### Concept repositories
-[C, C++](https://github.com/Adrian-rospx/low-level)  
-[Frontend](https://github.com/Adrian-rospx/WebDev)  
-[Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures)  
-[Python](https://github.com/Adrian-rospx/Python)
+
+- [Software Documentation](https://github.com/Adrian-rospx/docs)
+- [Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures)
 
 ---
 
-- Finished a [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
+#### April
+
+- Moved on from updating 'tutorial repositories' to reading documentation and practicing
+project based learning - Apr-21
+- Finished an [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
 and deployed it to github pages - Apr-19
 - Started learning Javascript - Apr-13
 - Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git) 
@@ -29,6 +32,7 @@ in Python - Apr-06
 - Created a pixel art image converter using Python **Pillow** - Apr-01
 
 #### March
+
 - Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git) 
 learning project - Mar-30
 - Implemented queues and stacks manually, along with postfix conversion for 
