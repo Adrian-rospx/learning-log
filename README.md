@@ -5,8 +5,9 @@ when it comes to software, computers and programming.
 
 #### Finished Projects
 
-- [Easter 2025 Egg coloring app](https://github.com/Adrian-rospx/easter-egg)
-- [Weather app PySide6](https://github.com/Adrian-rospx/weather-app)
+- [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
+- [Easter 2025 Egg coloring web app](https://github.com/Adrian-rospx/easter-egg)
+- [Weather app with PySide6](https://github.com/Adrian-rospx/weather-app)
 - [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter)  
 - [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli)  
 
@@ -19,6 +20,8 @@ when it comes to software, computers and programming.
 
 #### April
 
+- Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site) 
+that fetches Solar System planet data and images from APIs
 - Moved on from updating 'tutorial repositories' to reading documentation and practicing
 project based learning - Apr-21
 - Finished an [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
