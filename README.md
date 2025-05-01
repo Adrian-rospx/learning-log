@@ -3,25 +3,12 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
-#### Finished Projects
-
-- [Solar System API **React** app](https://github.com/Adrian-rospx/solar-system-site)
-- [Easter 2025 Egg coloring web app](https://github.com/Adrian-rospx/easter-egg)
-- [Weather app with PySide6](https://github.com/Adrian-rospx/weather-app)
-- [Image pixelation program](https://github.com/Adrian-rospx/pixel-converter)  
-- [CLI Calculator in C](https://github.com/Adrian-rospx/calc-cli)  
-
-#### Concept repositories
-
-- [Software Documentation](https://github.com/Adrian-rospx/docs)
-- [Algorithms and Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures)
-
----
-
 #### April
 
+- Complete the [Iris Flower **Machine Learning** Project](https://github.com/Adrian-rospx/iris-flower),  
+moved my projects to the profile repository - May-01
 - Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site) 
-that fetches Solar System planet data and images from APIs
+that fetches Solar System planet data and images from APIs - Apr-26
 - Moved on from updating 'tutorial repositories' to reading documentation and practicing
 project based learning - Apr-21
 - Finished an [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
