@@ -3,10 +3,15 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
-#### April
+#### May
 
+- Learned about **dotfiles**, powershell scripts and how to organise my 
+window dev setup for python, js and cpp. - May-10
 - Complete the [Iris Flower **Machine Learning** Project](https://github.com/Adrian-rospx/iris-flower),  
 moved my projects to the profile repository - May-01
+
+#### April
+
 - Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site) 
 that fetches Solar System planet data and images from APIs - Apr-26
 - Moved on from updating 'tutorial repositories' to reading documentation and practicing
