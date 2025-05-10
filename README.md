@@ -5,8 +5,9 @@ when it comes to software, computers and programming.
 
 #### May
 
-- Learned about **dotfiles**, powershell scripts and how to organise my 
-window dev setup for python, js and cpp. - May-10
+- Learned about **dotfiles** and powershell scripts. - May-10
+- Installed EndeavourOS (Arch-based linux distribution)
+on my laptop - May-02
 - Complete the [Iris Flower **Machine Learning** Project](https://github.com/Adrian-rospx/iris-flower),  
 moved my projects to the profile repository - May-01
 
