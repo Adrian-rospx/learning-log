@@ -5,6 +5,8 @@ when it comes to software, computers and programming.
 
 #### May
 
+- CMake, Clang and Ninja working setup for C++ - May-13
+- Learned about Bash scripting for configuring linux and dotfiles - May-12
 - Learned about **dotfiles** and powershell scripts. - May-10
 - Installed EndeavourOS (Arch-based linux distribution)
 on my laptop - May-02
