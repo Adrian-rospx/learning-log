@@ -5,6 +5,7 @@ when it comes to software, computers and programming.
 
 #### May
 
+- ASCII polygon rasterizer project takes shape - May-24
 - CMake, Clang and Ninja working setup for C++ - May-13
 - Learned about Bash scripting for configuring linux and dotfiles - May-12
 - Learned about **dotfiles** and powershell scripts. - May-10
