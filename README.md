@@ -3,8 +3,13 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
+#### June
+
+- Linux VM setup with vmware - Jun-03 
+
 #### May
 
+- First Java program, triangle area calculator - May-29
 - ASCII polygon rasterizer project takes shape - May-24
 - CMake, Clang and Ninja working setup for C++ - May-13
 - Learned about Bash scripting for configuring linux and dotfiles - May-12
