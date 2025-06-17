@@ -5,7 +5,9 @@ when it comes to software, computers and programming.
 
 #### June
 
-- Linux VM setup with vmware - Jun-03 
+- Learning backend, set up a basic NodeJS server - Jun-15
+- Learned about ssh keys and virtual machines with VirtualBox - Jun-13
+- Simple java music player program for learning - Jun-9
 
 #### May
 
