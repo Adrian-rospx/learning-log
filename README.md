@@ -3,6 +3,13 @@ This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
+- [Chessboard Camera Calibration OpenCV](https://github.com/Adrian-rospx/camera-calibration) -
+Sep-08
+- [Color Tracker with OpenCV](https://github.com/Adrian-rospx/color-tracker) - 
+Aug-18
+- Reached 100 Leetcode problems solved - Aug-07
+- Started the OpenCV University computer vision course - Aug-05
+
 #### June
 
 - Learning backend, set up a basic NodeJS server - Jun-15
