@@ -1,11 +1,14 @@
 # Learning-log
+
 This repository is to document my learning journey
 when it comes to software, computers and programming.  
 *Created on the 18th of February*
 
+## Progress
+
 - [Chessboard Camera Calibration OpenCV](https://github.com/Adrian-rospx/camera-calibration) -
 Sep-08
-- [Color Tracker with OpenCV](https://github.com/Adrian-rospx/color-tracker) - 
+- [Color Tracker with OpenCV](https://github.com/Adrian-rospx/color-tracker) -
 Aug-18
 - Reached 100 Leetcode problems solved - Aug-07
 - Started the OpenCV University computer vision course - Aug-05
@@ -30,43 +33,45 @@ moved my projects to the profile repository - May-01
 
 #### April
 
-- Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site) 
+- Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site)
 that fetches Solar System planet data and images from APIs - Apr-26
 - Moved on from updating 'tutorial repositories' to reading documentation and practicing
 project based learning - Apr-21
-- Finished an [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg) 
+- Finished an [Easter Egg web app and game](https://github.com/Adrian-rospx/easter-egg)
 and deployed it to github pages - Apr-19
 - Started learning Javascript - Apr-13
-- Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git) 
+- Finished a [weather app](https://github.com/Adrian-rospx/weather-app.git)
 made with **PySide6** - Apr-12
-- Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter) 
+- Finished the [pixel art converter](https://github.com/Adrian-rospx/pixel-converter)
 in Python - Apr-06
 - Learned about compilers and switched to Clang for C++ - Apr-05
 - Created a pixel art image converter using Python **Pillow** - Apr-01
 
 #### March
 
-- Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git) 
+- Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git)
 learning project - Mar-30
-- Implemented queues and stacks manually, along with postfix conversion for 
+- Implemented queues and stacks manually, along with postfix conversion for
 the calculator project. Much debugging to be done - Mar-26
 - Used ***Pygame*** to make a **Merge Sort and Quick Sort** algorithm animation - Mar-24
 - ***Linked list*** and ***dynamic array*** implementations in C - Mar-18
 - Made the algorithm visualisations for **insertion sort** and **selection sort**  
 using **Python Turtle** - Mar-16
 - [Python](https://github.com/Adrian-rospx/Python.git) repository. - Mar-10
-    - Found this website for organization: [Roadmap.sh](https://roadmap.sh)
+  - Found this website for organization: [Roadmap.sh](https://roadmap.sh)
 - ANSI codes for coloring terminal output and basic formatting - Mar-06
 - [Algorithms & Data Structures](https://github.com/Adrian-rospx/Algorithms-Data-Structures.git)
 repository. - Mar-03
-    - learned about time and space complexity & Big O notation
+  - learned about time and space complexity & Big O notation
 - completed an ASCII graphics ***clock animation*** - Mar-02
 
 #### 1st of March
+
 - learned a great deal about keyboard shortcuts and efficiency
 - managed to finally use CMake, meaning I can soon begin using third-party libraries
 
 #### 24th of February
+
 - Began learning CSS
 - Learned to configure vscode themes and now I love the look of the editor
 
@@ -86,7 +91,7 @@ to use cmake for example. I'll try WSL.
 - URLs and DNS
 - basics of how Web Browsers work
 
-I think this concludes my deepdive into the computer infrastructure we use 
+I think this concludes my deepdive into the computer infrastructure we use
 everyday. I now have a bit of an overview of how operating systems and the
 internet works. I have to move on to practical projects.
 
@@ -108,14 +113,16 @@ I do realise I am only looking superficially at this information, but
 I am more intersted in only getting the grasp of these domains.
 Now, for example, I at least have an idea of what's going on when data
 is transferred and how browsers interact with users, but the complexity
-is still amazing. I  now know that running a server or, say, making a 
+is still amazing. I  now know that running a server or, say, making a
 chat app is doable.
 
 #### 18th of February
+
 Learned about **Make files** and how to use them along with **headers**
 in C projects
 
 I learned about the roles of the Operating System:
+
 - Process management (processes and threads)
 - Memory management (virtual memory, paging)
 - File systems (file formats, directories)
@@ -126,7 +133,9 @@ I learned about the roles of the Operating System:
 - offering GUIs and CLIs
 
 #### 17th of February
+
 I learned about hardware:
+
 - how the **keyboard and mouse** work in general
 - how the **Motherboard** connects to components on a computer
 - the process of starting the operating system after powering on the computer
@@ -137,25 +146,32 @@ everyday systems we use and I realised the complexity behind
 communication protocols within devices
 
 #### 16th of February
+
 - I found out how markdown **.md** files work and made the first README files
 
 Finished with assembly after looking at:
+
 - arithmetic and logic instructions
 - jump instructions
 
 #### 15th of February
+
 Started learning a bit about assembly:
+
 - memory registers
 - found out how to convert .c into .s files
 - what the stack is
 
 #### 8th of February
+
 I learned about the what instruction sets are
 
 I Discovered touch typing and began learning it
 
-#### 7th of February 
+#### 7th of February
+
 I started looking at the **architecture of Computers** from the ground up:
+
 - Adders and ALUs from logic gates
 - Latches and memory registers
 - (S)RAM and mutliplexers
