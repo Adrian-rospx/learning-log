@@ -6,6 +6,8 @@ when it comes to software, computers and programming.
 
 ## Progress
 
+- Participated in a cybersecurity **Capture The Flag**
+competition (Younihack) - Sep-28
 - [Chessboard Camera Calibration OpenCV](https://github.com/Adrian-rospx/camera-calibration) -
 Sep-08
 - [Color Tracker with OpenCV](https://github.com/Adrian-rospx/color-tracker) -
@@ -13,13 +15,13 @@ Aug-18
 - Reached 100 Leetcode problems solved - Aug-07
 - Started the OpenCV University computer vision course - Aug-05
 
-#### June
+### June
 
 - Learning backend, set up a basic NodeJS server - Jun-15
 - Learned about ssh keys and virtual machines with VirtualBox - Jun-13
 - Simple java music player program for learning - Jun-9
 
-#### May
+### May
 
 - First Java program, triangle area calculator - May-29
 - ASCII polygon rasterizer project takes shape - May-24
@@ -31,7 +33,7 @@ on my laptop - May-02
 - Complete the [Iris Flower **Machine Learning** Project](https://github.com/Adrian-rospx/iris-flower),  
 moved my projects to the profile repository - May-01
 
-#### April
+### April
 
 - Finished my first [**React + Tailwind** web app](https://github.com/Adrian-rospx/solar-system-site)
 that fetches Solar System planet data and images from APIs - Apr-26
@@ -47,7 +49,7 @@ in Python - Apr-06
 - Learned about compilers and switched to Clang for C++ - Apr-05
 - Created a pixel art image converter using Python **Pillow** - Apr-01
 
-#### March
+### March
 
 - Finished the C [**CLI calculator**](https://github.com/Adrian-rospx/calc-cli.git)
 learning project - Mar-30
@@ -65,17 +67,17 @@ repository. - Mar-03
   - learned about time and space complexity & Big O notation
 - completed an ASCII graphics ***clock animation*** - Mar-02
 
-#### 1st of March
+### 1st of March
 
 - learned a great deal about keyboard shortcuts and efficiency
 - managed to finally use CMake, meaning I can soon begin using third-party libraries
 
-#### 24th of February
+### 24th of February
 
 - Began learning CSS
 - Learned to configure vscode themes and now I love the look of the editor
 
-#### 23rd of February
+### 23rd of February
 
 - Made a circle drawing algorithm program in C++
 - Tried to install several Linux distros, but the only one that actually worked was Mint.
@@ -84,9 +86,9 @@ I am curious about bash commands because a lot of the tools I use, such
 as GCC and Git are Linux based and I have run into problems when trying
 to use cmake for example. I'll try WSL.
 
-#### line drawing algorithm graphics project - Feb-21
+### line drawing algorithm graphics project - Feb-21
 
-#### 20th of February
+### 20th of February
 
 - URLs and DNS
 - basics of how Web Browsers work
@@ -98,7 +100,7 @@ internet works. I have to move on to practical projects.
 Started the **WebDev** repo and learned about **HTML** following
 [this tutorial](https://youtu.be/HGTJBPNC-Gw?si=40-EgLgE5XYCWGhq).
 
-#### 19th of February
+### 19th of February
 
 Basics of Networking:
 
@@ -116,7 +118,7 @@ is transferred and how browsers interact with users, but the complexity
 is still amazing. I  now know that running a server or, say, making a
 chat app is doable.
 
-#### 18th of February
+### 18th of February
 
 Learned about **Make files** and how to use them along with **headers**
 in C projects
@@ -132,7 +134,7 @@ I learned about the roles of the Operating System:
 - providing APIs and systemcalls
 - offering GUIs and CLIs
 
-#### 17th of February
+### 17th of February
 
 I learned about hardware:
 
@@ -145,7 +147,7 @@ To say the least, I am much more amazed at the ingenuity behind
 everyday systems we use and I realised the complexity behind
 communication protocols within devices
 
-#### 16th of February
+### 16th of February
 
 - I found out how markdown **.md** files work and made the first README files
 
@@ -154,7 +156,7 @@ Finished with assembly after looking at:
 - arithmetic and logic instructions
 - jump instructions
 
-#### 15th of February
+### 15th of February
 
 Started learning a bit about assembly:
 
@@ -162,13 +164,13 @@ Started learning a bit about assembly:
 - found out how to convert .c into .s files
 - what the stack is
 
-#### 8th of February
+### 8th of February
 
 I learned about the what instruction sets are
 
 I Discovered touch typing and began learning it
 
-#### 7th of February
+### 7th of February
 
 I started looking at the **architecture of Computers** from the ground up:
 
@@ -180,7 +182,7 @@ I started looking at the **architecture of Computers** from the ground up:
 
 I followed the online series [Crash Course Computer Science](https://youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&si=fPEFP-QnYMBBTocU)
 
-#### 4th of February
+### 4th of February
 
 I started being interested in understanding computers and the internet
 
