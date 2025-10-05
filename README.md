@@ -6,6 +6,9 @@ when it comes to software, computers and programming.
 
 ## Progress
 
+- Created a static, minimalist
+[Toyota Fan Website](https://github.com/Adrian-rospx/toyota-fan-site)
+and deployed it locally using a **Raspberry Pi** - Oct-05
 - Participated in a cybersecurity **Capture The Flag**
 competition (Younihack) - Sep-28
 - [Chessboard Camera Calibration OpenCV](https://github.com/Adrian-rospx/camera-calibration) -
