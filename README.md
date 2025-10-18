@@ -6,6 +6,10 @@ when it comes to software, computers and programming.
 
 ## Progress
 
+- Created a JSON
+[note-taking ReST API](https://github.com/Adrian-rospx/notes4all)
+with users,an **SQLite** database
+and **JWT** authentication - Oct-18
 - Created a static, minimalist
 [Toyota Fan Website](https://github.com/Adrian-rospx/toyota-fan-site)
 and deployed it locally using a **Raspberry Pi** - Oct-05
