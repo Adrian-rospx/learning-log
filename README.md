@@ -6,6 +6,8 @@ when it comes to software, computers and programming.
 
 ## Progress
 
+- Created an [asynchronous chat app](https://github.com/Adrian-rospx/socket-chat) 
+in C with sockets - Nov-23
 - Integrated Docker into my website projects - Oct-28
 - Created a JSON
 [note-taking ReST API](https://github.com/Adrian-rospx/notes4all)
